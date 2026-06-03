@@ -50,4 +50,12 @@ If this project were to be revisited, potential improvements could include:
 
 ## Author
 
+## Author
+
 Nikodem Nowak
+
+Computer Science Student  
+University of Salford
+
+GitHub: https://github.com/Niko-Quant
+LinkedIn: https://www.linkedin.com/in/nikodem-nowak-dev
