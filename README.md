@@ -2,19 +2,19 @@
 
 ## Overview
 
-A desktop application developed in Python using Tkinter for collecting and managing visitor survey responses.
+A desktop application developed as part of a Computer Science programming assignment at the University of Salford.
 
-The application was created as part of a university software development project and demonstrates object-oriented programming, GUI development and data management principles.
+The project was designed to demonstrate object-oriented programming principles, graphical user interface development and data management using Python.
 
 ---
 
 ## Features
 
 - Graphical User Interface (Tkinter)
-- Survey data collection
+- Survey response collection
 - Data storage and retrieval
 - Object-oriented design
-- User-friendly workflow
+- Structured user workflow
 
 ---
 
@@ -35,12 +35,16 @@ The application was created as part of a university software development project
 
 ---
 
-## Future Improvements
+## Reflection
+
+If this project were to be revisited, potential improvements could include:
 
 - Database integration
-- Analytics dashboard
-- Export to CSV
-- Enhanced reporting functionality
+- Advanced data analytics
+- Export functionality
+- Enhanced reporting features
+- Improved user interface design
+
 
 ---
 
