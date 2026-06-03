@@ -50,8 +50,6 @@ If this project were to be revisited, potential improvements could include:
 
 ## Author
 
-## Author
-
 Nikodem Nowak
 
 Computer Science Student  
